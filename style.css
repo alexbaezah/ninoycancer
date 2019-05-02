@@ -1,1 +1,4 @@
 .imagen{position: static; max-width: 25%; height: auto;}
+.imagen2{max-width: 35%;
+    height: auto; display: inline-block}
+    .noticia1{width: 300px; height: auto; display: block}
